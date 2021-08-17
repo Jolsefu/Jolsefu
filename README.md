@@ -2,8 +2,6 @@
 
 ## About Me
 I'm Jules Reserva!
-- 😄 Pronouns: He/Him
-
 A __beginner__ at Computer Science and Programming.
 
 ## Status
