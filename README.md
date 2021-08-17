@@ -1,7 +1,7 @@
-### Hello there! 👋
+<h2> Hello there! 👋 </h2>
 
-Here are some ideas to get you started:
+I'm Jules Reserva
 
-- 🌱 I’m currently learning ... Computer Science
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm Filipino
+- 🌱 Currently Learning: Computer Science
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm Filipino
