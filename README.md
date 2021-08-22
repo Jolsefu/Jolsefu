@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋, I'm Jules Reserva</h1>
+<h1 align="center">Hey there! 👋, I'm Jules</h1>
 <h3 align="center">An aspiring software engineer in the Philippines</h3>
 
 ## About Me
