@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Jules</h1>
-<h3 align="center">An aspiring software engineer in the Philippines</h3>
+<h3 align="center">An aspiring software engineer/developer in the Philippines</h3>
 
 ## About Me
 A __beginner__ at Computer Science and Programming.
