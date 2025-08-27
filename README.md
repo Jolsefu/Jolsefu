@@ -1,5 +1,5 @@
 ## Hey there! 👋
-I am **Jules Leo Reserva**, an aspiring Software Engineer.
+I am **Jules Leo Reserva**, an avid learner of Computer Science.
 
 ## About Me
 **Passionate** about Computer Science and Programming.
